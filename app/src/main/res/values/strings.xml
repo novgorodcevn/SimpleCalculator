@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleCalc</string>
+    <string name="increase_button">+1</string>
+    <string name="decrease_button">-1</string>
+    <string name="clear_button">0</string>
+    <string name="developer_name">Никита Новгородцев</string>
+    <string name="pr_description">Простой калькулятор Версия 1.0</string>
+    <string name="info_button">info</string>
+</resources>
